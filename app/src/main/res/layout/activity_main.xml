@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dfv.dfvscan.MainActivity">
+
+    <Button
+        android:id="@+id/scan_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:background="@color/blue"
+        android:text="公司设备编码扫描"
+        android:textColor="@color/beijing" />
+
+    <Button
+        android:id="@+id/devscan_bt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:background="@color/blue"
+        android:text="车机编码扫描"
+        android:textColor="@color/beijing" />
+
+
+    <TextView
+        android:text="注意：扫描一定要同意开启权限\n本地文件保存在手机存储的LocalLog文件夹中，可进入手机的文件管理查看"
+        android:padding="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3598DB</color>
+    <color name="colorPrimaryDark">#3598DB</color>
+    <color name="colorAccent">#3598DB</color>
+    <color name="white">#ffffff</color>
+    <color name="beijing">#F4F4F4</color>
+    <color name="qianhuise">#cdcdcd</color>
+
+    <color name="huise">#9098A2</color>
+    <color name="head">#F5F5F7</color>
+    <color name="transparent">#00000000</color>
+    <color name="line">#c6c6c9</color>
+
+    <color name="black">#000000</color>
+    <color name="red">#FA392F</color>
+    <color name="menu_lan">#11E862</color>
+    <color name="color_lv">#007AFF</color>
+    <color name="blue">#3598DB</color>
+
+    <color name="search_hui">#E3E3E5</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="bg">#D5D5D5</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="yellow">#F1CE66</color>
+
+
+    <color name="scan_corner_color">#0effc2</color>
+</resources>
